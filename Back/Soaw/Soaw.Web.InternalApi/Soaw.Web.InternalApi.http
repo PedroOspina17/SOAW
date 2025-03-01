@@ -1,0 +1,6 @@
+@Soaw.Web.InternalApi_HostAddress = http://localhost:5225
+
+GET {{Soaw.Web.InternalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

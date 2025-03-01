@@ -1,0 +1,6 @@
+@Soaw.Web.PublicApi_HostAddress = http://localhost:5186
+
+GET {{Soaw.Web.PublicApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
